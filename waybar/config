@@ -1,0 +1,223 @@
+[
+  {
+    "layer": "top",
+    "position": "top",
+    "height": 24,
+    "spacing": 5,
+    "modules-left": [
+      "custom/launcher",
+      "custom/music",
+      "custom/cava"
+    ],
+    "modules-right": [
+      "temperature",
+      "cpu",
+      "memory",
+      "pulseaudio",
+      "backlight",
+      "battery",
+      "tray",
+      "clock"
+    ],
+    "modules-center": ["hyprland/workspaces"],
+    
+    "hyprland/window": {
+      "format": "{class}",
+      "max-length": 20,
+      "rewrite": {
+        "^(?!.*\\S).*": "Finder"
+      }
+    },
+    "custom/launcher": {
+      "format": "   ",
+      "on-click": "nwg-drawer",
+      "tooltip": false
+    },
+    "keyboard-state": {
+      "numlock": true,
+      "capslock": true,
+      "format": "{name} {icon}",
+      "format-icons": {
+        "locked": "",
+        "unlocked": ""
+      }
+    },
+    "mpd": {
+      "host": "127.0.0.1",
+      "port": 6601,
+      "max-length": 90,
+      "format": "{title} - {artist} {stateIcon} [{elapsedTime:%M:%S}/{totalTime:%M:%S}] {consumeIcon}{randomIcon}{repeatIcon}{singleIcon}[{songPosition}/{queueLength}] [{volume}%]",
+      "format-disconnected": "MPD Disconnected",
+      "format-stopped": "MPD {consumeIcon}{randomIcon}{repeatIcon}{singleIcon}Stopped",
+      "unknown-tag": "N/A",
+      "interval": 2,
+      "consume-icons": {
+        "on": " "
+      },
+      "random-icons": {
+        "on": " "
+      },
+      "repeat-icons": {
+        "on": " "
+      },
+      "single-icons": {
+        "on": "1 "
+      },
+      "state-icons": {
+        "paused": "",
+        "playing": ""
+      },
+      "tooltip-format": "MPD (connected)",
+      "tooltip-format-disconnected": "MPD (disconnected)",
+      "on-click": "mpc -h 127.0.0.1 -p 6601 toggle",
+      "on-scroll-up": "mpc -h 127.0.0.1 -p 6601 volume +2",
+      "on-scroll-down": "mpc -h 127.0.0.1 -p 6601 volume -2"
+    },
+    "custom/cava": {
+      	"format": "{}",
+		"exec": "~/.config/waybar/cava.sh",
+		"tooltip": false
+    },
+    "custom/music": {
+        "exec": "~/.config/waybar/music_zscroll.sh",
+        "format": "{}",
+        "tooltip": false,
+        "on-click": "~/.config/waybar/music_zenity.sh",
+        "min-length": 32
+    },
+    "idle_inhibitor": {
+      "format": "{icon}",
+      "format-icons": {
+        "activated": "",
+        "deactivated": ""
+      }
+    },
+    "hyprland/workspaces": {
+    	"all-outputs": true,
+      	"on-click": "activate",
+      	"disable-scroll": true,
+      	"format": "{icon}", 
+      	"format-icons": {
+        "active": "",
+        "persistent": "",
+        "empty": ""
+      	},
+      	"persistent-workspaces": {
+        "*": 6
+      	}
+    },
+    "tray": {
+      "spacing": 10,
+      "background": "#2a184a",
+      "border-radius": 5,
+      "padding": 2
+    },
+    "clock": {
+        "timezone": "Europe/Rome",
+        "locale": "it_IT.UTF-8",
+        "format": "{:%H:%M}  ",
+        "format-alt": "{:L%A %d di %B %H:%M}",
+        "tooltip-format": "<tt><small>{calendar}</small></tt>",
+        "calendar": {
+                    "mode"          : "year",
+                    "mode-mon-col"  : 3,
+                    "weeks-pos"     : "right",
+                    "on-scroll"     : 1,
+                    "format": {
+                              "months":     "<span color='#ffead3'><b>{}</b></span>",
+                              "days":       "<span color='#ecc6d9'><b>{}</b></span>",
+                              "weeks":      "<span color='#99ffdd'><b>W{}</b></span>",
+                              "weekdays":   "<span color='#ffcc66'><b>{}</b></span>",
+                              "today":      "<span color='#ff6699'><b><u>{}</u></b></span>"
+                              }
+                    },
+        "actions":  {
+                    "on-click-right": "mode",
+                    "on-scroll-up": "tz_up",
+                    "on-scroll-down": "tz_down",
+                    "on-scroll-up": "shift_up",
+                    "on-scroll-down": "shift_down"
+                    }
+    },
+    "cpu": {
+      "format": "   {usage}%"
+    },
+    "memory": {
+      "format": "  {}%"
+    },
+    "temperature": {
+      "thermal-zone": 2,
+      "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
+      "critical-threshold": 80,
+      "format-critical": "{icon} {temperatureC}°C",
+      "format": "{icon} {temperatureC}°C",
+      "format-icons": [
+        "",
+        "",
+        ""
+      ]
+    },
+    "backlight": {
+    	"tooltip": false,
+      	"format": "{icon}  {percent}%",
+      	"format-icons": [
+        	"",
+        	"",
+        	"",
+        	"",
+        	"",
+        	"",
+        	"",
+        	"",
+        	""
+   		]
+    },
+    "battery": {
+      "states": {
+        "warning": 20,
+        "critical": 15
+      },
+      "format": "{icon}  {capacity}%",
+      "format-charging": "🔋  {capacity}%",
+      "format-plugged": "  {capacity}%",
+      "format-alt": "{icon}  {time}",
+      "format-icons": [
+        "",
+        "",
+        "",
+        " ",
+        ""
+      ]
+    },
+    "battery#bat2": {
+      "bat": "BAT2"
+    },
+    "network": {
+      "format-wifi": "{essid} ({signalStrength}%) ",
+      "format-ethernet": "🖧   {ifname}",
+      "tooltip-format": "🛈   {ifname} via {gwaddr}",
+      "format-linked": "🔗  {ifname} (No IP)",
+      "format-disconnected": "Disconnected 📶❌🚫  {ifname}",
+      "format-alt": "⎇   {ifname}: {ipaddr}/{cidr}"
+    },
+    "pulseaudio": {
+      "scroll-step": 5,
+      "format": "{icon}  {volume}%  {format_source}",
+      "format-bluetooth": "  {icon}  {volume}%  {format_source}",
+      "format-bluetooth-muted": "🔇  {icon}  {format_source}",
+      "format-muted": "🔇  {format_source}",
+      "format-source": "  {volume}%",
+      "format-source-muted": "",
+      "format-icons": {
+        "default": [
+          "",
+          "",
+          ""
+        ]
+      },
+      "on-click": "pavucontrol",
+      "on-click-right": "foot -a pw-top pw-top",
+      "tooltip": false
+    }
+  }
+]
