@@ -1,0 +1,190 @@
+sw_volume: 100
+audio_device_state:1:ALSA via PulseAudio
+audio_device_state:1:CAVA Pipe
+state: pause
+current: 111
+time: 134.157
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD1/Monteverdi - Vespro della Beata Vergine (1610) - CD1 [1].flac
+1:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD1/Monteverdi - Vespro della Beata Vergine (1610) - CD1 [2].flac
+2:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD1/Monteverdi - Vespro della Beata Vergine (1610) - CD1 [3].flac
+3:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD1/Monteverdi - Vespro della Beata Vergine (1610) - CD1 [4].flac
+4:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD1/Monteverdi - Vespro della Beata Vergine (1610) - CD1 [5].flac
+5:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD1/Monteverdi - Vespro della Beata Vergine (1610) - CD1 [6].flac
+6:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD1/Monteverdi - Vespro della Beata Vergine (1610) - CD1 [7].flac
+7:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD1/Monteverdi - Vespro della Beata Vergine (1610) - CD1 [8].flac
+8:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD1/Monteverdi - Vespro della Beata Vergine (1610) - CD1 [9].flac
+9:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD1/Monteverdi - Vespro della Beata Vergine (1610) - CD1 [10].flac
+10:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD1/Monteverdi - Vespro della Beata Vergine (1610) - CD1 [11].flac
+11:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD1/Monteverdi - Vespro della Beata Vergine (1610) - CD1 [12].flac
+12:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD2/Monteverdi - Vespro della beata Vergine (1610) - CD2 [1].flac
+13:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD2/Monteverdi - Vespro della beata Vergine (1610) - CD2 [2].flac
+14:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD2/Monteverdi - Vespro della beata Vergine (1610) - CD2 [3].flac
+15:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD2/Monteverdi - Vespro della beata Vergine (1610) - CD2 [4].flac
+16:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD2/Monteverdi - Vespro della beata Vergine (1610) - CD2 [5].flac
+17:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD2/Monteverdi - Vespro della beata Vergine (1610) - CD2 [6].flac
+18:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD2/Monteverdi - Vespro della beata Vergine (1610) - CD2 [7].flac
+19:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD2/Monteverdi - Vespro della beata Vergine (1610) - CD2 [8].flac
+20:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD2/Monteverdi - Vespro della beata Vergine (1610) - CD2 [9].flac
+21:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD2/Monteverdi - Vespro della beata Vergine (1610) - CD2 [10].flac
+22:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD2/Monteverdi - Vespro della beata Vergine (1610) - CD2 [11].flac
+23:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD2/Monteverdi - Vespro della beata Vergine (1610) - CD2 [12].flac
+24:1999 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Vespro della Beata Vergine/CD2/Monteverdi - Vespro della beata Vergine (1610) - CD2 [13].flac
+25:2001 - Gabriel Garrido & Ensemble Elyma - Aliotti - Il Sansone/Aliotti - Il Sansone [1].flac
+26:2001 - Gabriel Garrido & Ensemble Elyma - Aliotti - Il Sansone/Aliotti - Il Sansone [2].flac
+27:2001 - Gabriel Garrido & Ensemble Elyma - Aliotti - Il Sansone/Aliotti - Il Sansone [3].flac
+28:2001 - Gabriel Garrido & Ensemble Elyma - Aliotti - Il Sansone/Aliotti - Il Sansone [4].flac
+29:2001 - Gabriel Garrido & Ensemble Elyma - Aliotti - Il Sansone/Aliotti - Il Sansone [5].flac
+30:2001 - Gabriel Garrido & Ensemble Elyma - Aliotti - Il Sansone/Aliotti - Il Sansone [6].flac
+31:2001 - Gabriel Garrido & Ensemble Elyma - Aliotti - Il Sansone/Aliotti - Il Sansone [7].flac
+32:2001 - Gabriel Garrido & Ensemble Elyma - Aliotti - Il Sansone/Aliotti - Il Sansone [8].flac
+33:2001 - Gabriel Garrido & Ensemble Elyma - Aliotti - Il Sansone/Aliotti - Il Sansone [9].flac
+34:2001 - Gabriel Garrido & Ensemble Elyma - Aliotti - Il Sansone/Aliotti - Il Sansone [10].flac
+35:2001 - Gabriel Garrido & Ensemble Elyma - Aliotti - Il Sansone/Aliotti - Il Sansone [11].flac
+36:2001 - Gabriel Garrido & Ensemble Elyma - Aliotti - Il Sansone/Aliotti - Il Sansone [12].flac
+37:2001 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'incoronazione di Poppea/CD3/Monteverdi - L'Incoronazione di Poppea CD3 [1].flac
+38:2001 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'incoronazione di Poppea/CD3/Monteverdi - L'Incoronazione di Poppea CD3 [2].flac
+39:2001 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'incoronazione di Poppea/CD3/Monteverdi - L'Incoronazione di Poppea CD3 [3].flac
+40:2001 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'incoronazione di Poppea/CD3/Monteverdi - L'Incoronazione di Poppea CD3 [4].flac
+41:2001 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'incoronazione di Poppea/CD3/Monteverdi - L'Incoronazione di Poppea CD3 [5].flac
+42:2001 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'incoronazione di Poppea/CD3/Monteverdi - L'Incoronazione di Poppea CD3 [6].flac
+43:2001 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'incoronazione di Poppea/CD3/Monteverdi - L'Incoronazione di Poppea CD3 [7].flac
+44:2001 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'incoronazione di Poppea/CD3/Monteverdi - L'Incoronazione di Poppea CD3 [8].flac
+45:2001 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'incoronazione di Poppea/CD3/Monteverdi - L'Incoronazione di Poppea CD3 [9].flac
+46:2001 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'incoronazione di Poppea/CD3/Monteverdi - L'Incoronazione di Poppea CD3 [10].flac
+47:2001 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'incoronazione di Poppea/CD3/Monteverdi - L'Incoronazione di Poppea CD3 [11].flac
+48:2001 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'incoronazione di Poppea/CD3/Monteverdi - L'Incoronazione di Poppea CD3 [12].flac
+49:2001 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'incoronazione di Poppea/CD3/Monteverdi - L'Incoronazione di Poppea CD3 [13].flac
+50:2001 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'incoronazione di Poppea/CD3/Monteverdi - L'Incoronazione di Poppea CD3 [14].flac
+51:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [1].flac
+52:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [2].flac
+53:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [3].flac
+54:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [4].flac
+55:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [5].flac
+56:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [6].flac
+57:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [7].flac
+58:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [8].flac
+59:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [9].flac
+60:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [10].flac
+61:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [11].flac
+62:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [12].flac
+63:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [13].flac
+64:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [14].flac
+65:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [15].flac
+66:2001 - Mexique Nouvelle Espagne [3CD's]/CD 3 (Le Phénix du Mexique)/Le Phénix du Mexique [16].flac
+67:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [1].flac
+68:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [2].flac
+69:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [3].flac
+70:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [4].flac
+71:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [5].flac
+72:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [6].flac
+73:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [7].flac
+74:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [8].flac
+75:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [9].flac
+76:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [10].flac
+77:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [11].flac
+78:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [12].flac
+79:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [13].flac
+80:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [14].flac
+81:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [15].flac
+82:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [16].flac
+83:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [17].flac
+84:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [18].flac
+85:2005 - Gabriel Garrido & Ensemble Elyma - Fiesta Criolla/Fiesta Criolla [19].flac
+86:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 1/Monteverdi - L'Orfeo CD1 [1].flac
+87:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 1/Monteverdi - L'Orfeo CD1 [2].flac
+88:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 1/Monteverdi - L'Orfeo CD1 [3].flac
+89:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 1/Monteverdi - L'Orfeo CD1 [4].flac
+90:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 1/Monteverdi - L'Orfeo CD1 [5].flac
+91:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 1/Monteverdi - L'Orfeo CD1 [6].flac
+92:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 1/Monteverdi - L'Orfeo CD1 [7].flac
+93:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 1/Monteverdi - L'Orfeo CD1 [8].flac
+94:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 1/Monteverdi - L'Orfeo CD1 [9].flac
+95:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 1/Monteverdi - L'Orfeo CD1 [10].flac
+96:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 1/Monteverdi - L'Orfeo CD1 [11].flac
+97:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 1/Monteverdi - L'Orfeo CD1 [12].flac
+98:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 1/Monteverdi - L'Orfeo CD1 [13].flac
+99:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 1/Monteverdi - L'Orfeo CD1 [14].flac
+100:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [1].flac
+101:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [2].flac
+102:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [3].flac
+103:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [4].flac
+104:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [5].flac
+105:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [6].flac
+106:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [7].flac
+107:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [8].flac
+108:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [9].flac
+109:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [10].flac
+110:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [11].flac
+111:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [12].flac
+112:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [13].flac
+113:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [14].flac
+114:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [15].flac
+115:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - L'Orfeo, 1996/CD 2/Monteverdi - L'Orfeo CD2 [16].flac
+116:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/01 - Chant - Deus in adiutorium - Domine ed adiuvandum.mp3
+117:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/02 - Chant - Isti sunt Sancti.mp3
+118:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/03 - Dixit Dominus II.mp3
+119:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/04 - Chant - Isti sunct sancti.mp3
+120:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/05 - Chant - Sancti per fidem.mp3
+121:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/06 - Confitebor tibi Domini I.mp3
+122:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/07 - Chant - Sancti per fidem.mp3
+123:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/08 - Chant - Sanctorum velut aquilae.mp3
+124:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/09 - Beatus vir II.mp3
+125:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/10 - Chant - Sanctorum velut aquilae.mp3
+126:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/11 - Chant - Absterget Deus.mp3
+127:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/12 - Laudate pueri I.mp3
+128:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/13 - Chant - Absterget Deus.mp3
+129:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/14 - Chant - In caelestibus regnis.mp3
+130:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/15 - Credidi.mp3
+131:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/16 - Chant - In caelestibus regnis.mp3
+132:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/17 - Sanctorum meritis II.mp3
+133:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/18 - Chant - Gaudent in caelis.mp3
+134:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/19 - Magnificat II.mp3
+135:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/20 - Chant - Gaudent in caelis.mp3
+136:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD03 - Vespro del Martiri/21 - Salve Regina III.mp3
+137:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD04 - L'Eloquenza Divina/01 - Memento Domine David.mp3
+138:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD04 - L'Eloquenza Divina/02 - Sanctorum meritis I.mp3
+139:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD04 - L'Eloquenza Divina/03 - Deus tuorum militum I.mp3
+140:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD04 - L'Eloquenza Divina/04 - Deus tuorum militum II.mp3
+141:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD04 - L'Eloquenza Divina/05 - Iste confessor I.mp3
+142:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD04 - L'Eloquenza Divina/06 - Iste confessor II.mp3
+143:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD04 - L'Eloquenza Divina/07 - Ut queant iaxis.mp3
+144:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD04 - L'Eloquenza Divina/08 - Salve Regina I.mp3
+145:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD04 - L'Eloquenza Divina/09 - Salve Regina II.mp3
+146:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD04 - L'Eloquenza Divina/10 - Jubilet tota civitas.mp3
+147:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD04 - L'Eloquenza Divina/11 - Laudate Dominum.mp3
+148:2005 - Gabriel Garrido & Ensemble Elyma - Monteverdi - Selva Morale e Spirituale/CD04 - L'Eloquenza Divina/12 - Pianto della Madonna sopra il Lamento d'Arianna.mp3
+149:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD1/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD1 [1].flac
+150:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD1/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD1 [2].flac
+151:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD1/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD1 [3].flac
+152:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD1/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD1 [4].flac
+153:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD1/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD1 [5].flac
+154:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD1/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD1 [6].flac
+155:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD1/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD1 [7].flac
+156:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD1/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD1 [8].flac
+157:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD1/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD1 [9].flac
+158:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [1].flac
+159:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [2].flac
+160:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [3].flac
+161:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [4].flac
+162:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [5].flac
+163:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [6].flac
+164:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [7].flac
+165:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [8].flac
+166:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [9].flac
+167:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [10].flac
+168:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [11].flac
+169:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [12].flac
+170:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [13].flac
+171:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [14].flac
+172:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [15].flac
+173:2008 - Gabriel Garrido & Ensemble Elyma - Francesco Cavalli - Gli Amori d'Apollo e di Dafne/CD2/Cavalli Francesco - Gli Amori d'Apollo e di Dafne CD2 [16].flac
+playlist_end

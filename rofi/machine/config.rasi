@@ -1,0 +1,80 @@
+@theme "/dev/null"
+
+configuration {
+	display-drun: "Applications:\n";
+	display-window: "Windows:\n";
+	display-run: "run:\n";
+	modi: "window,run,drun";
+	show-icons: true;
+	steal-focus: true;
+	kb-accept-entry: "MousePrimary";
+	me-select-entry: "";
+}
+* {
+    c-1: rgba(64, 64, 64, 0.2);
+	c-2: #dcd7ba;
+	c-3: #8B0000;
+	c-4: #f4d26c;
+	
+	background-color: @c-1;
+	text-color: @c-2;
+	
+	border: 0;
+	margin: 0;
+	padding: 0;
+	spacing: 0;
+    font: "JetBrainsMono Nerd Font 14";
+}
+
+window {
+	width: 50ch;
+	height: 100%;
+	padding: 0;
+	border: 2px;
+	border-color: @c-3;
+	children: [mainbox];
+}
+
+mainbox {
+	children: [inputbar, listview];
+}
+
+element {
+	padding: 7;
+	text-color: @c-2;
+	children: [ element-text, element-icon ];
+}
+
+element selected {
+	text-color: @c-4;
+	border: 1px;
+	border-color: @c-4;
+	background-color: @c-3;
+	border-radius: 2px;
+}
+
+element-text {
+	background-color: inherit;
+	text-color: inherit;
+	vertical-align: 0.5;
+}
+
+element-icon {
+	size: 1.5em;
+	background-color: rgba(0, 0, 0, 0);
+}
+
+inputbar {
+	children: [prompt, entry];
+}
+
+prompt {
+	text-color: @c-2;
+	padding: 8px;
+	min-height: 2em;
+}
+
+entry {
+	text-color: @c-2;
+	padding: 8px;
+}
